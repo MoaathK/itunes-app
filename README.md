@@ -11,10 +11,10 @@ This project is a web application built with Next.js that allows users to search
 ## Screenshots
 
 ### 1. Home Page
-![Home Page Screenshot](screenshots/home-page.png)
+![Home Page Screenshot](public/pic1.png)
 
 ### 2. Search Results
-![Search Results Screenshot](screenshots/search-results.png)
+![Search Results Screenshot](public/pic2.png)
 
 ## Technologies Used
 - **Frontend:** Next.js, React
