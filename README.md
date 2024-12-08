@@ -20,7 +20,11 @@ This project is a web application built with Next.js that allows users to search
 - **Frontend:** Next.js, React
 - **Backend Integration:** iTunes API
 - **Styling:** Tailwind CSS
+## Deployment
 
+This project has been successfully deployed to **Vercel**, making it accessible online with optimal performance and scalability. You can view the live version of the project at:
+
+[Live Application on Vercel](https://itunes-app-smoky.vercel.app/)
 ## Getting Started
 
 First, run the development server:
