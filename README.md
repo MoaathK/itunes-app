@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# iTunes Search Application
+
+This project is a web application built with Next.js that allows users to search for music, podcasts, and other media using the iTunes API. The application provides a user-friendly interface to explore various collections and navigate directly to their respective iTunes pages.
+
+## Features
+- Search for media by keywords.
+- Fetch data from the iTunes API for music and podcasts.
+- Display album artwork, collection names, and links to iTunes.
+- Responsive design for a seamless experience on all devices.
+
+## Screenshots
+
+### 1. Home Page
+![Home Page Screenshot](screenshots/home-page.png)
+
+### 2. Search Results
+![Search Results Screenshot](screenshots/search-results.png)
+
+## Technologies Used
+- **Frontend:** Next.js, React
+- **Backend Integration:** iTunes API
+- **Styling:** Tailwind CSS
 
 ## Getting Started
 
